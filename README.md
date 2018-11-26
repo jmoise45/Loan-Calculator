@@ -1,2 +1,2 @@
 # Loan-Calculator
-Uses JavaFX feature on Eclipse
+The loan calculator uses JavaFX feature on Eclipse.
